@@ -1,15 +1,15 @@
 {
-  "name": "com.archnet.extension.scrollrect",
+  "name": "com.archnet.extension.rotation",
   "version": "1.0.0",
-  "displayName": "Arch Net Extension ScrollRect",
-  "description": "Extension to manage ScrollRect component",
+  "displayName": "Arch Net Extension Rotation",
+  "description": "Extension to manage GameObject to rotate forward or not",
   "unity": "2020.1",
   "unityRelease": "0b5",
   "keywords": [
     "Arch",
     "ArchNet",
     "Extension",
-    "ScrollRect",
+    "Rotate",
     "Custom"
   ],
   "author": {
