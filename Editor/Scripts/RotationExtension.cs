@@ -24,13 +24,13 @@ namespace ArchNet.Extension.Rotation
                 return;
             }
 
-            if (_forward)
+            if (_forward == true)
             {
-                this.transform.Rotate(Vector3.forward * Time.deltaTime * _speed, Space.World);
+                this.transform.Rotate(Vector3.back * Time.deltaTime * _speed, Space.World);
             }
             else
             {
-                this.transform.Rotate(Vector3.back * Time.deltaTime * _speed, Space.World);
+                this.transform.Rotate(Vector3.forward * Time.deltaTime * _speed, Space.World);
             }
 
         }
