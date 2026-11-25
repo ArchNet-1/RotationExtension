@@ -23,4 +23,4 @@ Add **ArchNet > Rotation**, set speed (degrees per second) and axis. `Play()` / 
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).
