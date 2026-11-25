@@ -1,19 +1,20 @@
 {
   "name": "com.archnet.extension.rotation",
-  "version": "1.0.0",
-  "displayName": "Arch Net Extension Rotation",
-  "description": "Extension to manage GameObject to rotate forward or not",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Rotation Extension",
+  "description": "Spins its GameObject around an axis at a set speed (loading icons, coins, fans…).",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#RotationExtension",
+  "changelogUrl": "https://github.com/ArchNet-1/RotationExtension/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/RotationExtension/blob/main/LICENSE.md",
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Extension",
-    "Rotate",
-    "Custom"
+    "archnet",
+    "extension",
+    "rotation"
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }
